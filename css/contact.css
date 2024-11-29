@@ -1,0 +1,24 @@
+.map{
+    border: 0;
+    width: 600px;
+    height: 450px;
+}
+
+.center{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.row{
+    width: 80%;
+}
+
+.contact-elt{
+    display: inline-flex;
+    justify-content: space-evenly;
+    width: 35%;
+}
+
+.contact-elt > img{
+    width: 25px;
+}

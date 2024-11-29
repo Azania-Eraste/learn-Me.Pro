@@ -1,0 +1,97 @@
+#course-frame{
+    height: 300px;
+    width: 100%;
+    margin: 0;
+}
+
+.mgx-5{
+    margin: 5px;
+}
+
+.txt{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+
+.double-section > .right{
+    width: 75%;
+}
+
+.double-section > .left{
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.double-section > .left > img {
+    height: auto;
+    width: 90%;
+
+}
+
+.title{
+    margin-top: 2.5rem;
+}
+
+div.check > p{
+    display: block;
+    width: 50%;
+}
+
+div.check > div{
+    width: 20px;
+    height: 20px;
+    background-color: #FFB800;
+}
+
+.row > div.check{
+    width: 40%; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.row > div > input{
+    background-color: #FFB800;
+}
+
+.forum{
+    background-color: #d9d9d9;
+    padding: 2rem 0 2rem 0;
+}
+
+.course{
+    text-align: left;
+    margin-bottom: 25px;
+}
+
+#other{
+    width: 60%;
+}
+
+label{
+    padding: 10px 0 10px 0;
+}
+
+form{
+    text-align: left;
+}
+
+form > button{
+    margin: auto;
+    position: relative;
+    text-align: center;
+}
+
+textarea{
+    margin: 0.2rem 0 1rem;
+}
+
+input{
+    margin: 0.5rem 0 1rem;
+    display: block;
+    width: 100%;
+}
